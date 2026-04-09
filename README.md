@@ -1,2 +1,12 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dong20)](https://solved.ac/dong20)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dong20&theme=cold)
+<div align="center">
+
+# 🏆 Algorithm Stats
+
+<br/>
+
+<a href="https://solved.ac/dong20" style="text-decoration: none;"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dong20" height="170" /></a>
+<img src="http://mazandi.herokuapp.com/api?handle=dong20&theme=warm" height="170" />
+
+<br/>
+
+</div>
