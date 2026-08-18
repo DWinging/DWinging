@@ -91,9 +91,10 @@
 
 ### 📖 Algorithm Web Book
 
-**「아니 그래서 어떻게 푸는데~!」**
-
-*알고리즘 4년 차의 문제 풀이 이야기*
+<strong>「아니 그래서 어떻게 푸는데~!」</strong>
+<sub><a href="https://dwinging.github.io/Algorithm_webbook/">Web Book ↗</a></sub>
+<br>
+<em>알고리즘 4년 차의 문제 풀이 이야기</em>
 
 ---
 
