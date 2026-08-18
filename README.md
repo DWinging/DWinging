@@ -8,8 +8,8 @@
 
 **🎂 Birth:** 2000.01.11 <br>
 **✉️ E-Mail:** choi.dongwook20@gmail.com <br>
-**🐱 GitHub:** github.com/dwinging <br>
-**📚 Blog:** velog.io/@dong20
+**🐱 GitHub:** [github.com/dwinging](https://github.com/dwinging) <br>
+**📚 Blog:** [velog.io/@dong20](https://velog.io/@dong20/about)
 
 ---
 
