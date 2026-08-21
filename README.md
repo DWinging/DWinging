@@ -8,8 +8,7 @@
 
 **🎂 Birth:** 2000.01.11 <br>
 **✉️ E-Mail:** choi.dongwook20@gmail.com <br>
-**🐱 GitHub:** [github.com/dwinging](https://github.com/dwinging) <br>
-**📚 Blog:** [velog.io/@dong20](https://velog.io/@dong20/about)
+**📚 Blog:** [velog.io/@dong20](https://velog.io/@dong20/series)
 
 ---
 
@@ -152,10 +151,13 @@
 
 ## 🏆 Awards
 
-- **SSAFY 1학기 프로젝트 최우수상** <br>   
+- **SSAFY 2학기 공통 프로젝트 5반 3등** <br>   
+    삼성전자주식회사 · 2026.08
+
+- **SSAFY 1학기 프로젝트 최우수상 (7반 1등)** <br>   
     삼성전자주식회사 · 2026.06
     
-- **SSAFY 1학기 성적우수상** <br>   
+- **SSAFY 1학기 성적우수상 (7반 2등)** <br>   
     삼성전자주식회사 · 2026.06
     
 - **2024 한국디지털콘텐츠학회 추계종합학술대회 대학생 논문경진대회 은상** <br>   
